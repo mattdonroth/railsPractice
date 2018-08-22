@@ -1,0 +1,9 @@
+sample_app/.bundle
+sample_app/db/*.sqlite3
+sample_app/db/*.sqlite3-journal
+sample_app/log/*
+sample_app/tmp/*
+sample_app/!/log/.keep
+sample_app/!/tmp/.keep
+sample_app/.byebug_history
+sample_app/spring/*.pid
